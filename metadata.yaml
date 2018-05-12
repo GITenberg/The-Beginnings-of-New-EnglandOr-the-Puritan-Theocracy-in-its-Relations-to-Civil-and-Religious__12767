@@ -1,5 +1,8 @@
 _repo: The-Beginnings-of-New-EnglandOr-the-Puritan-Theocracy-in-its-Relations-to-Civil-and-Religious__12767
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Fiske, John
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/525
     wikipedia: http://en.wikipedia.org/wiki/John_Fiske
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/12767#The-Beginnings-of-New-EnglandOr-the-Puritan-Theocracy-in-its-Relations-to-Civil-and-Religious_
 gutenberg_issued: '2004-06-28'
 gutenberg_type: Text
 identifiers:
